@@ -18,6 +18,7 @@ Pingvin Share is a self-hosted file sharing platform and an alternative for WeTr
 - Integration with ClamAV for security scans
 
 ## 🐧 Get to know Pingvin Share
+## By Mudassir Alam
 
 - [Demo](https://pingvin-share.dev.eliasschneider.com)
 - [Review by DB Tech](https://www.youtube.com/watch?v=rWwNeZCOPJA)
